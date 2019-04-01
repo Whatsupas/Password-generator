@@ -8,7 +8,7 @@ Program flow
 
 Password composition
 ---------------------------------
-[1] From 8 to 15 characters:
+[1] From 9 to 15 characters:
                           
                            [A] 2 capital letters at random position 
                            
