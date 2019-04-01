@@ -14,6 +14,6 @@ Password composition
                            [B] 2 lower letters at random position 
                            [C] 1 digit at random position 
                            [D] 3 special characters (%, ^, & ...) at random position 
-                           [E] From 1 to 7 randomly, random characters
+                           [E] From 1 to 7 randomly, random characters at the end of password
                            
 
