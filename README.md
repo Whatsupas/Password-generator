@@ -11,9 +11,13 @@ Password composition
 [1] From 8 to 15 characters:
                           
                            [A] 2 capital letters at random position 
+                           
                            [B] 2 lower letters at random position 
+                           
                            [C] 1 digit at random position 
+                           
                            [D] 3 special characters (%, ^, & ...) at random position 
+                           
                            [E] From 1 to 7 randomly, random characters at the end of password
                            
 
