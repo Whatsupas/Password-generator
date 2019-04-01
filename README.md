@@ -1,7 +1,9 @@
 # Password-generator
 Console App - Generating password
+
 Program flow
 ------------
+
 [1] Program generates 5 (optional) unique passwords
 
 Password composition
