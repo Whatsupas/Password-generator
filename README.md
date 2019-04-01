@@ -18,6 +18,6 @@ Password composition
                            
                            [D] 3 special characters (%, ^, &, ?, etc) at random position 
                            
-                           [E] From 0 to 7 randomly, random characters at the end of the password
+                           [E] From 0 to 7 randomly, random characters at random position
                            
 
