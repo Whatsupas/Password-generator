@@ -1,5 +1,5 @@
 # Password-generator
-Console App - Generating password
+C# Console App - Generating password
 
 Program flow
 ------------
